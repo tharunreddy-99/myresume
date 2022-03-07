@@ -1,0 +1,32 @@
+.img{
+    width: 100px;
+    height:100px;
+    margin-left: 0%;
+    border: thick double #32a1ce;
+}
+.a{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-wrap:wrap;
+}
+.b{
+    display: flex;
+    flex-wrap:nowrap;
+    background-color: lightblue;
+}
+td {
+    padding: 0 15px;
+  }
+.edu{
+    background-color: lightgreen;
+}
+.skills{
+    background-color: lightpink;
+}
+.proj{
+    background-color: lightsalmon;
+}
+body{
+    background-color: rgb(171, 176, 182);
+}
